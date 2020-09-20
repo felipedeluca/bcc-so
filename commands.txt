@@ -1,0 +1,6 @@
+ps -eaf
+    Lista os processos
+
+fish
+    Shell de comando
+

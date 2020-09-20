@@ -1,0 +1,5 @@
+To compile:
+    gcc pi.c -o pi -std=c11
+
+Then run:
+    ./pi
