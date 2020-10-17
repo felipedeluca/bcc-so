@@ -1,0 +1,1 @@
+We use "pthread_create" to create a thread, thread id is the first argument, NULL is the second argument(which should be some attribute, but we may not use it), the third argument is the function, then the last argument is what we want to pass to the new thread.

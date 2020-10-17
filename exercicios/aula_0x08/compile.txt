@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Wno-unused-parameter -pthread -std=c17 wordcounter.c -o wc && ./wc test1.txt test2.txt test3.txt

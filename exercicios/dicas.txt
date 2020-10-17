@@ -1,0 +1,2 @@
+Comandos:
+    valgrind -> verifica se existe leaks no código

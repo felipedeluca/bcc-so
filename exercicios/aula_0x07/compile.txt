@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Wno-unused-parameter -pthread -std=c11 threads2.c -o threads2 && ./threads2
