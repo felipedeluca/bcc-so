@@ -1,0 +1,3 @@
+Commando 'pv' contabiliza a taxa de bytes gerados em um programa
+
+./main | pv -r > /dev/null
