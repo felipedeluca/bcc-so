@@ -1,0 +1,3 @@
+Normal compile process:
+
+    gcc gm.c -o gm
